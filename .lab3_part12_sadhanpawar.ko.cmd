@@ -1,0 +1,1 @@
+cmd_/home/sadhanpi/Emb2_lab3/lab3_part12_sadhanpawar.ko := ld -r -EL -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/sadhanpi/Emb2_lab3/lab3_part12_sadhanpawar.ko /home/sadhanpi/Emb2_lab3/lab3_part12_sadhanpawar.o /home/sadhanpi/Emb2_lab3/lab3_part12_sadhanpawar.mod.o;  true
